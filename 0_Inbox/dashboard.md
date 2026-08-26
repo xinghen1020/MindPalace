@@ -28,10 +28,6 @@ id: demo-memo-1
 id: demo-memo-path
 你可以在 设置 > Apex Dashboard 中修改 dashboard 文件路径。
 
-### 提示：重命名分区
-id: demo-memo-rename
-双击分区标题即可重命名分区。
-
 ## Todo
 
 ### 快速上手
